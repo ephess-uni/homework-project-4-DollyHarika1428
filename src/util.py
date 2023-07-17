@@ -1,6 +1,4 @@
 from os import path
-
-
 def get_data_file_path(file_name: str) -> str:
     """
     get_data_file_path returns the absolute path to the a filename in the data directory
